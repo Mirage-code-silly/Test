@@ -1,7 +1,8 @@
 public class Main
 {
-public static void Main(String[] args){
-  System.out.println("hello world"_
-}
+  public static void Main(String[] args){
+  System.out.println("hello world");
+  System.out.println("test");
+  }
 
 }
